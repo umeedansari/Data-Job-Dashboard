@@ -49,7 +49,10 @@ Your mission control for the data job market.
 - Total job count, median salaries, and top job titles.  
 - Job trends over time.  
 - Comparative salary analysis (hourly vs yearly).  
-- Role distribution across Data Engineers, Analysts, Scientists, and more.  
+- Role distribution across Data Engineers, Analysts, Scientists, and more.
+
+  <img width="1380" height="764" alt="Screenshot 2026-02-21 091319" src="https://github.com/user-attachments/assets/55cd8526-8e71-48a6-8505-a22d7caf03db" />
+
 
 ### Page 2: Job Role Drill-Through
 The deep-dive view.  
@@ -57,7 +60,9 @@ The deep-dive view.
 - Work-from-home %, degree requirement %, health insurance %.  
 - Global job distribution map.  
 - Hiring platforms breakdown (LinkedIn, Indeed, ZipRecruiter, Jooble, BeBee).  
-- Job schedule type (full-time vs contractor).  
+- Job schedule type (full-time vs contractor).
+
+  <img width="1382" height="777" alt="Screenshot 2026-02-21 091514" src="https://github.com/user-attachments/assets/643086a7-522d-4328-be80-3bfeb4d8da5f" />
 
 ---
 
